@@ -41,8 +41,8 @@ class JobReporter:
             if not eval_res.get("qualified", False):
                 continue
 
-            # Minimum threshold
-            if eval_res.get("match_percentage", 0) < 45:
+            # Minimum threshold: include down to 25%
+            if eval_res.get("match_percentage", 0) < 25:
                 continue
 
             new_qualified_jobs.append(item)
@@ -70,7 +70,8 @@ class JobReporter:
 
         high_match = [j for j in qualified_jobs if j["eval"]["match_percentage"] >= 80]
         medium_match = [j for j in qualified_jobs if 60 <= j["eval"]["match_percentage"] < 80]
-        entry_match = [j for j in qualified_jobs if j["eval"]["match_percentage"] < 60]
+        entry_match = [j for j in qualified_jobs if 50 <= j["eval"]["match_percentage"] < 60]
+        lesser_match = [j for j in qualified_jobs if j["eval"]["match_percentage"] < 50]
 
         md = []
         md.append(f"# 🎯 Daily Job Discovery & Profile Match Report — {today_str}\n")
@@ -81,10 +82,11 @@ class JobReporter:
         md.append(f"| Metric | Count |")
         md.append(f"| :--- | :--- |")
         md.append(f"| **Total 24h Postings Scanned** | `{total_scanned}` |")
-        md.append(f"| **Qualified New Listings** | `{len(qualified_jobs)}` |")
+        md.append(f"| **Qualified Listings Found** | `{len(qualified_jobs)}` |")
         md.append(f"| **High Match (≥ 80%)** | `{len(high_match)}` 🟢 |")
         md.append(f"| **Moderate Match (60% - 79%)** | `{len(medium_match)}` 🟡 |")
-        md.append(f"| **Other SDE / Intern Roles (45% - 59%)** | `{len(entry_match)}` 🔵 |\n")
+        md.append(f"| **Relevant Associate / Intern (50% - 59%)** | `{len(entry_match)}` 🔵 |")
+        md.append(f"| **Lesser Matched / Adjacent (< 50%)** | `{len(lesser_match)}` ⚪ |\n")
 
         if not qualified_jobs:
             md.append("### ℹ️ No new listings matched your criteria in this run.\n")
@@ -97,7 +99,7 @@ class JobReporter:
                 j = item["job"]
                 ev = item["eval"]
                 pct = ev["match_percentage"]
-                badge = "🟢" if pct >= 80 else ("🟡" if pct >= 60 else "🔵")
+                badge = "🟢" if pct >= 80 else ("🟡" if pct >= 60 else ("🔵" if pct >= 50 else "⚪"))
                 md.append(f"| **{badge} {pct}%** | {j['title']} | **{j['company']}** | {j['location']} | [Apply Now ↗]({j['url']}) |")
             md.append("\n---\n")
 
@@ -112,9 +114,19 @@ class JobReporter:
                     md.extend(self._format_job_card(item))
 
             if entry_match:
-                md.append("## 🔵 Associate & Intern Roles (45% - 59%)\n")
+                md.append("## 🔵 Associate & Intern Roles (50% - 59%)\n")
                 for item in entry_match:
                     md.extend(self._format_job_card(item))
+
+            if lesser_match:
+                md.append("## ⚪ Lesser Matched / Adjacent Roles (< 50%)\n")
+                md.append("> *Compact view for quick reference (Title, Company, Location & Direct Link):*\n")
+                for item in lesser_match:
+                    j = item["job"]
+                    ev = item["eval"]
+                    pct = ev["match_percentage"]
+                    md.append(f"* **{pct}%** — [{j['title']}]({j['url']}) at **{j['company']}** ({j['location']})")
+                md.append("\n")
 
         md.append("\n---\n")
         md.append("*Generated automatically by Omkar's Job Hunter Agent.*")
