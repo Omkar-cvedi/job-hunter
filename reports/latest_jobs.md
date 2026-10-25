@@ -1,265 +1,256 @@
-# 🎯 Daily Job Discovery & Profile Match Report — 2026-10-24
+# 🎯 Daily Job Discovery & Profile Match Report — 2026-10-25
 
 > **Candidate Profile:** Omkar Chaturvedi | Java Backend / SDE-1 (Spring Boot, MySQL, AWS)
-> **Run Time:** 24 Oct 2026, 09:00 AM IST | **Scan Window:** Last 24 Hours
+> **Run Time:** 25 Oct 2026, 09:17 AM IST | **Scan Window:** Last 24 Hours
 
 ## 📊 Summary Overview
 
 | Metric | Count |
 | :--- | :--- |
-| **Total 24h Postings Scanned** | `93` |
-| **Qualified Listings Found** | `56` |
-| **High Match (≥ 80%)** | `0` 🟢 |
-| **Moderate Match (60% - 79%)** | `12` 🟡 |
-| **Relevant Associate / Intern (50% - 59%)** | `5` 🔵 |
-| **Lesser Matched / Adjacent (< 50%)** | `39` ⚪ |
+| **Total 24h Postings Scanned** | `83` |
+| **Qualified Listings Found** | `47` |
+| **High Match (≥ 80%)** | `1` 🟢 |
+| **Moderate Match (60% - 79%)** | `9` 🟡 |
+| **Relevant Associate / Intern (50% - 59%)** | `8` 🔵 |
+| **Lesser Matched / Adjacent (< 50%)** | `29` ⚪ |
 
 ## ⚡ Quick Application Table
 
 | Match % | Role Title | Company | Location | Link |
 | :---: | :--- | :--- | :--- | :---: |
-| **🟡 71%** | Backend Java Developer | **Bizaarambh** | Sahibzada Ajit Singh Nagar, Punjab, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-java-developer-at-bizaarambh-4483184111) |
-| **🟡 68%** | Java Developer | **Citi** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-citi-4481699755) |
-| **🟡 66%** | Java Fullstack Engineer | **Ascendion** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-fullstack-engineer-at-ascendion-4481900062) |
-| **🟡 66%** | Associate Software Engineer | **TalentRabbit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481031290) |
-| **🟡 66%** | Associate Software Engineer | **Miamin Systems** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481018687) |
-| **🟡 66%** | Associate Software Engineer | **Miamin Systems** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481025491) |
-| **🟡 64%** | Software Engineer - JAVA | **Barclays** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481016676) |
-| **🟡 64%** | Software Engineer - JAVA | **Barclays** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481018544) |
-| **🟡 64%** | Engineer III, Software | **Thermo Fisher Scientific** | Bengaluru East, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/engineer-iii-software-at-thermo-fisher-scientific-4473100641) |
-| **🟡 62%** | Backend Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482621032) |
-| **🟡 62%** | Backend Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482607366) |
-| **🟡 60%** | Backend Development Internship in Indore | **Nextloop Technologies LLP** | Indore, Madhya Pradesh, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-development-internship-in-indore-at-nextloop-technologies-llp-4483174358) |
-| **🔵 57%** | Java Developer | **Scoutit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482620207) |
-| **🔵 57%** | Java Springboot +AWS Developer | **Infosys** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-springboot-%2Baws-developer-at-infosys-4481946160) |
-| **🔵 56%** | Back End Developer | **Scoutit** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482611898) |
-| **🔵 55%** | Hiring: Java Developers – IAM/IGA SailPoint Career Transition Program | **BLS360** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/hiring-java-developers-%E2%80%93-iam-iga-sailpoint-career-transition-program-at-bls360-4483306353) |
-| **🔵 54%** | Full Stack Web Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482625051) |
-| **⚪ 47%** | AI/ML Computational Science Associate | **Accenture in India** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627) |
-| **⚪ 47%** | Full Stack Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-thinknovaa-4482604941) |
-| **⚪ 46%** | Java Developer | **Scoutit** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482622218) |
-| **⚪ 42%** | Cloud Engineer | **Cisco** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/cloud-engineer-at-cisco-4483102522) |
-| **⚪ 41%** | Full Stack Web Developer Intern | **Dexterz Technology** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482631032) |
-| **⚪ 37%** | Microservices JAVA with AWS-Software Engineer II | **Deloitte** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464875268) |
-| **⚪ 35%** | Application Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/application-developer-intern-at-jobs4panindia-4482626089) |
-| **⚪ 34%** | Full Stack Engineer | **Venture Intelligence** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-engineer-at-venture-intelligence-4481675351) |
-| **⚪ 33%** | Full Stack Web Developer | **Dexterz Technology** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-at-dexterz-technology-4482607987) |
-| **⚪ 30%** | Full Stack Engineer | **Zetheta Algorithms Private Limited** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4481680134) |
-| **⚪ 29%** | AI-Native Full Stack Java Developer | **Zycus** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/ai-native-full-stack-java-developer-at-zycus-4482862641) |
-| **⚪ 27%** | MERN STACK DEVELOPMENT INTERN | **SKOOLLAGE** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-skoollage-4481943012) |
-| **⚪ 25%** | Software Engineer II | **Mastercard** | Pune Division, Maharashtra, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4480679568) |
-| **⚪ 25%** | Java Developer | **Citi** | Pune Division, Maharashtra, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-citi-4481697790) |
-| **⚪ 25%** | Software Engineer - JAVA | **Barclays** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481012888) |
-| **⚪ 25%** | Sr. Software Engineer (Java) | **Applied Materials Korea** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/sr-software-engineer-java-at-applied-materials-korea-4471777723) |
-| **⚪ 25%** | Java Application Developer | **SpeedMart** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-application-developer-at-speedmart-4481698197) |
-| **⚪ 25%** | Software Engineer II - Java Full stack with AI | **Mastercard** | Pune Division, Maharashtra, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375) |
-| **⚪ 25%** | Software Engineer | **Scoutit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4482634010) |
-| **⚪ 25%** | Associate Software Engineer | **TalentRabbit** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481025488) |
-| **⚪ 25%** | Java FullStack | **Citi** | Pune Division, Maharashtra, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-fullstack-at-citi-4481916173) |
-| **⚪ 25%** | Software Engineer II | **JPMorganChase** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-ii-at-jpmorganchase-4483154334) |
-| **⚪ 25%** | Associate Engineer(C#, .net, ASP.NET MVC, SQL, AWS or Azure) | **MatrixCare** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-engineer-c%23-net-asp-net-mvc-sql-aws-or-azure-at-matrixcare-4483160320) |
-| **⚪ 25%** | Software Engineer | **Cisco** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4483108414) |
-| **⚪ 25%** | MERN Stack Developer | **InnovKaro Solutions** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/mern-stack-developer-at-innovkaro-solutions-4481670451) |
-| **⚪ 25%** | Software Engineer I A - GBS IND | **Bank of America** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-i-a-gbs-ind-at-bank-of-america-4482896864) |
-| **⚪ 25%** | Automotive Display Software Engineer | **Qualcomm** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/automotive-display-software-engineer-at-qualcomm-4481696343) |
-| **⚪ 25%** | Backend Developer Intern (Remote) | **MediNex Workforce** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-remote-at-medinex-workforce-4481670719) |
-| **⚪ 25%** | Back End Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482610985) |
-| **⚪ 25%** | Software Engineer Intern | **Bluebex** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-intern-at-bluebex-4482394271) |
-| **⚪ 25%** | Software Engineer Intern | **CredHive** | New Delhi, Delhi, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-intern-at-credhive-4483104685) |
-| **⚪ 25%** | Software Development Intern | **Shure India** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-development-intern-at-shure-india-4481911474) |
-| **⚪ 25%** | Full Stack Development Internship in New Chandigarh, Panchkula, Chandigarh, Zirakpur, Kharar, Mohali | **Sahayak Associates** | Chandigarh, Chandigarh, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-new-chandigarh-panchkula-chandigarh-zirakpur-kharar-mohali-at-sahayak-associates-4483174359) |
-| **⚪ 25%** | Full Stack Development Internship in New Chandigarh, Panchkula, Chandigarh, Zirakpur, Kharar, Mohali | **Sahayak Associates** | Chandigarh, Chandigarh, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-new-chandigarh-panchkula-chandigarh-zirakpur-kharar-mohali-at-sahayak-associates-4483177325) |
-| **⚪ 25%** | Application Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/application-developer-intern-at-thinknovaa-4482617412) |
-| **⚪ 25%** | Back End Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482629062) |
-| **⚪ 25%** | Associate Software Engineer | **TalentRabbit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482625043) |
-| **⚪ 25%** | Full Stack Web Developer Intern | **Dexterz Technology** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/ai-implementation-engineer-intern-at-hectae-analytics-and-software-solutions-4481692012) |
-| **⚪ 25%** | AI Implementation Engineer Intern | **Hectae Analytics and Software Solutions** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-testing-intern-at-shure-india-4481910507) |
+| **🟢 93%** | Java Developer Intern (Java, SQL, Spring Boot, Git) | Remote | **Crossing Infotech** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-intern-java-sql-spring-boot-git-remote-at-crossing-infotech-4482668743) |
+| **🟡 74%** | Java Software Engineer | **Hireologist** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-software-engineer-at-hireologist-4483380182) |
+| **🟡 68%** | JAVA FULL STACK DEVELOPER | **QUIPU** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-full-stack-developer-at-quipu-4481045213) |
+| **🟡 66%** | Associate Software Engineer | **TalentRabbit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481064929) |
+| **🟡 66%** | Associate Software Engineer | **Miamin Systems** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481075588) |
+| **🟡 66%** | Associate Software Engineer | **Miamin Systems** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481067879) |
+| **🟡 66%** | Associate Software Engineer | **TalentRabbit** | Gurugram, Haryana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481071690) |
+| **🟡 64%** | Full Stack Engineer | **EngRadar** | Pune/Pimpri-Chinchwad Area | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-engineer-at-engradar-4483340277) |
+| **🟡 62%** | Backend Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482674452) |
+| **🟡 62%** | Backend Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482676576) |
+| **🔵 59%** | Back End Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482677354) |
+| **🔵 58%** | Sr. Software Engineer | **Blackhawk Network India** | Kozhikode, Kerala, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/sr-software-engineer-at-blackhawk-network-india-4415297307) |
+| **🔵 57%** | Java Developer | **Scoutit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482682421) |
+| **🔵 57%** | Specialist - Software Development & Engineering- JAVA | **Charles Schwab India** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/specialist-software-development-engineering-java-at-charles-schwab-india-4483362822) |
+| **🔵 56%** | Core Java Developer | **Tata Consultancy Services** | Mumbai Metropolitan Region | [Apply Now ↗](https://in.linkedin.com/jobs/view/core-java-developer-at-tata-consultancy-services-4482649588) |
+| **🔵 56%** | Back End Developer | **Scoutit** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482665961) |
+| **🔵 54%** | Full Stack Web Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482682267) |
+| **🔵 51%** | Software Engineer | **Aervon** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-at-aervon-4482677319) |
+| **⚪ 48%** | Associate, Technology Operations | **MassMutual India** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-technology-operations-at-massmutual-india-4482665066) |
+| **⚪ 48%** | Backend Developer Intern | **kaushalsaathi** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/backend-developer-intern-at-kaushalsaathi-4482681497) |
+| **⚪ 47%** | Full Stack Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-thinknovaa-4482677315) |
+| **⚪ 46%** | Java Developer | **Scoutit** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482689058) |
+| **⚪ 41%** | Full Stack Web Developer Intern | **Dexterz Technology** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482669629) |
+| **⚪ 37%** | Software Engineer | **Scoutit** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4482665959) |
+| **⚪ 37%** | Java Developer Intern | **Skillzen Loop** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/java-developer-intern-at-skillzen-loop-4481045699) |
+| **⚪ 35%** | Application Developer Intern | **Jobs4PanIndia** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/application-developer-intern-at-jobs4panindia-4482686227) |
+| **⚪ 34%** | Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only) | **Digitals AI** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/generative-ai-engineer-freshers-2026-27-computer-science-or-ai-only-at-digitals-ai-4483332828) |
+| **⚪ 33%** | Full Stack Web Developer | **Dexterz Technology** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-web-developer-at-dexterz-technology-4482678405) |
+| **⚪ 31%** | Full Stack Engineer Intern | **Flexzistay** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-engineer-intern-at-flexzistay-4420712870) |
+| **⚪ 30%** | Full Stack Engineer | **Zetheta Algorithms Private Limited** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4482648383) |
+| **⚪ 27%** | MERN STACK DEVELOPMENT INTERN | **SKOOLLAGE** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-skoollage-4482683295) |
+| **⚪ 27%** | TECH INTERN – FULL STACK WEB DEVELOPER | **Concept Promotions and Events** | Delhi, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/tech-intern-%E2%80%93-full-stack-web-developer-at-concept-promotions-and-events-4482643278) |
+| **⚪ 25%** | Software Engineer I | **Workowon** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-engineer-i-at-workowon-4483341284) |
+| **⚪ 25%** | Application Developer | **Appinventiv** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/application-developer-at-appinventiv-4481033766) |
+| **⚪ 25%** | Software Specialist | **Appinventiv** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-specialist-at-appinventiv-4481030836) |
+| **⚪ 25%** | Hiring Interns - Web and Mobile Apps - Product Company | **K-HUB INDIA** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/hiring-interns-web-and-mobile-apps-product-company-at-k-hub-india-4481074751) |
+| **⚪ 25%** | Software Developer | **Skillinabox** | Noida, Uttar Pradesh, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-developer-at-skillinabox-4482648022) |
+| **⚪ 25%** | Jr. AI Engineer | **aiqon** | Hyderabad, Telangana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/jr-ai-engineer-at-aiqon-4481042276) |
+| **⚪ 25%** | Associate AI Engineer (GenAI / Agentic AI) | **Cremisoft AI** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/associate-ai-engineer-genai-agentic-ai-at-cremisoft-ai-4481050334) |
+| **⚪ 25%** | DEVELOPER (.NET) | **Privet Ventures Pvt Ltd** | Gurugram, Haryana, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/developer-net-at-privet-ventures-pvt-ltd-4482672234) |
+| **⚪ 25%** | Eng, Artificial Intelligence | **KLA** | Chennai, Tamil Nadu, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/eng-artificial-intelligence-at-kla-4427334560) |
+| **⚪ 25%** | Software & AI Systems Intern | **Custosa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-ai-systems-intern-at-custosa-4482644311) |
+| **⚪ 25%** | Application Developer Intern | **ThinkNovaa** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/application-developer-intern-at-thinknovaa-4482677314) |
+| **⚪ 25%** | Engineer Intern | **Appinventiv** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/engineer-intern-at-appinventiv-4481048070) |
+| **⚪ 25%** | Intern Bachelors Software Eng | **Honeywell Technologies** | Bengaluru, Karnataka, India | [Apply Now ↗](https://in.linkedin.com/jobs/view/intern-bachelors-software-eng-at-honeywell-technologies-4483355003) |
+| **⚪ 25%** | Software Developer Intern | **Skillzen Loop** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-developer-intern-at-skillzen-loop-4481055328) |
+| **⚪ 25%** | Software Trainee | **Appinventiv** | India | [Apply Now ↗](https://in.linkedin.com/jobs/view/software-trainee-at-appinventiv-4481027997) |
 
 ---
 
-## 🟡 Moderate Match Roles (60% - 79%)
+## 🟢 High Match Opportunities (≥ 80%)
 
-### [Backend Java Developer](https://in.linkedin.com/jobs/view/backend-java-developer-at-bizaarambh-4483184111) — **Bizaarambh**
-- **Profile Match:** `71%`
-- **Location:** Sahibzada Ajit Singh Nagar, Punjab, India
-- **Posted:** 8 hours ago
-- **Key Skills Matched:** `java`, `jwt`, `microservices`, `mysql`, `spring boot`
-- **Good-to-Have Skills:** `aws`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-java-developer-at-bizaarambh-4483184111)
-
-### [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-citi-4481699755) — **Citi**
-- **Profile Match:** `68%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 16 hours ago
-- **Key Skills Matched:** `java`, `microservices`, `spring boot`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-developer-at-citi-4481699755)
-
-### [Java Fullstack Engineer](https://in.linkedin.com/jobs/view/java-fullstack-engineer-at-ascendion-4481900062) — **Ascendion**
-- **Profile Match:** `66%`
-- **Location:** Bengaluru, Karnataka, India
-- **Posted:** 19 hours ago
-- **Key Skills Matched:** `aws`, `java`, `microservices`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `spring boot`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-fullstack-engineer-at-ascendion-4481900062)
-
-### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481031290) — **TalentRabbit**
-- **Profile Match:** `66%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 4 hours ago
-- **Key Skills Matched:** `aws`, `java`, `spring boot`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481031290)
-
-### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481018687) — **Miamin Systems**
-- **Profile Match:** `66%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 4 hours ago
-- **Key Skills Matched:** `aws`, `java`, `spring boot`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481018687)
-
-### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481025491) — **Miamin Systems**
-- **Profile Match:** `66%`
-- **Location:** Bengaluru, Karnataka, India
-- **Posted:** 4 hours ago
-- **Key Skills Matched:** `aws`, `java`, `spring boot`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481025491)
-
-### [Software Engineer - JAVA](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481016676) — **Barclays**
-- **Profile Match:** `64%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 5 hours ago
-- **Key Skills Matched:** `aws`, `java`, `microservices`, `mysql`, `rest api`, `spring boot`, `spring security`
-- **Good-to-Have Skills:** `jwt`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481016676)
-
-### [Software Engineer - JAVA](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481018544) — **Barclays**
-- **Profile Match:** `64%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 5 hours ago
-- **Key Skills Matched:** `aws`, `java`, `microservices`, `mysql`, `rest api`, `spring boot`, `spring security`
-- **Good-to-Have Skills:** `jwt`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481018544)
-
-### [Engineer III, Software](https://in.linkedin.com/jobs/view/engineer-iii-software-at-thermo-fisher-scientific-4473100641) — **Thermo Fisher Scientific**
-- **Profile Match:** `64%`
-- **Location:** Bengaluru East, Karnataka, India
-- **Posted:** 18 hours ago
-- **Key Skills Matched:** `java`, `microservices`, `mysql`, `spring boot`, `spring security`
-- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/engineer-iii-software-at-thermo-fisher-scientific-4473100641)
-
-### [Backend Developer Intern](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482621032) — **ThinkNovaa**
-- **Profile Match:** `62%`
-- **Location:** India
-- **Posted:** 1 hour ago
-- **Key Skills Matched:** `java`, `mysql`, `spring boot`
-- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482621032)
-
-### [Backend Developer Intern](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482607366) — **ThinkNovaa**
-- **Profile Match:** `62%`
+### [Java Developer Intern (Java, SQL, Spring Boot, Git) | Remote](https://in.linkedin.com/jobs/view/java-developer-intern-java-sql-spring-boot-git-remote-at-crossing-infotech-4482668743) — **Crossing Infotech**
+- **Profile Match:** `93%`
 - **Location:** India
 - **Posted:** 2 hours ago
 - **Key Skills Matched:** `java`, `mysql`, `spring boot`
 - **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482607366)
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-developer-intern-java-sql-spring-boot-git-remote-at-crossing-infotech-4482668743)
 
-### [Backend Development Internship in Indore](https://in.linkedin.com/jobs/view/backend-development-internship-in-indore-at-nextloop-technologies-llp-4483174358) — **Nextloop Technologies LLP**
-- **Profile Match:** `60%`
-- **Location:** Indore, Madhya Pradesh, India
-- **Posted:** 8 hours ago
-- **Key Skills Matched:** `java`, `spring boot`
+## 🟡 Moderate Match Roles (60% - 79%)
+
+### [Java Software Engineer](https://in.linkedin.com/jobs/view/java-software-engineer-at-hireologist-4483380182) — **Hireologist**
+- **Profile Match:** `74%`
+- **Location:** Bengaluru, Karnataka, India
+- **Posted:** 1 hour ago
+- **Key Skills Matched:** `aws`, `java`, `microservices`, `mysql`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-software-engineer-at-hireologist-4483380182)
+
+### [JAVA FULL STACK DEVELOPER](https://in.linkedin.com/jobs/view/java-full-stack-developer-at-quipu-4481045213) — **QUIPU**
+- **Profile Match:** `68%`
+- **Location:** Hyderabad, Telangana, India
+- **Posted:** 23 hours ago
+- **Key Skills Matched:** `java`, `jwt`, `microservices`, `spring boot`
+- **Good-to-Have Skills:** `aws`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-full-stack-developer-at-quipu-4481045213)
+
+### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481064929) — **TalentRabbit**
+- **Profile Match:** `66%`
+- **Location:** Chennai, Tamil Nadu, India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `aws`, `java`, `spring boot`
 - **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-development-internship-in-indore-at-nextloop-technologies-llp-4483174358)
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481064929)
+
+### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481075588) — **Miamin Systems**
+- **Profile Match:** `66%`
+- **Location:** Chennai, Tamil Nadu, India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `aws`, `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481075588)
+
+### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481067879) — **Miamin Systems**
+- **Profile Match:** `66%`
+- **Location:** Bengaluru, Karnataka, India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `aws`, `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-miamin-systems-4481067879)
+
+### [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481071690) — **TalentRabbit**
+- **Profile Match:** `66%`
+- **Location:** Gurugram, Haryana, India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `aws`, `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481071690)
+
+### [Full Stack Engineer](https://in.linkedin.com/jobs/view/full-stack-engineer-at-engradar-4483340277) — **EngRadar**
+- **Profile Match:** `64%`
+- **Location:** Pune/Pimpri-Chinchwad Area
+- **Posted:** 16 hours ago
+- **Key Skills Matched:** `aws`, `java`, `jwt`, `microservices`, `spring boot`
+- **Good-to-Have Skills:** `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/full-stack-engineer-at-engradar-4483340277)
+
+### [Backend Developer Intern](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482674452) — **ThinkNovaa**
+- **Profile Match:** `62%`
+- **Location:** India
+- **Posted:** 5 hours ago
+- **Key Skills Matched:** `java`, `mysql`, `spring boot`
+- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482674452)
+
+### [Backend Developer Intern](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482676576) — **ThinkNovaa**
+- **Profile Match:** `62%`
+- **Location:** India
+- **Posted:** 48 minutes ago
+- **Key Skills Matched:** `java`, `mysql`, `spring boot`
+- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/backend-developer-intern-at-thinknovaa-4482676576)
 
 ## 🔵 Associate & Intern Roles (50% - 59%)
 
-### [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482620207) — **Scoutit**
-- **Profile Match:** `57%`
-- **Location:** Chennai, Tamil Nadu, India
-- **Posted:** 1 hour ago
-- **Key Skills Matched:** `java`, `microservices`, `mysql`, `spring boot`
-- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482620207)
+### [Back End Developer Intern](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482677354) — **Jobs4PanIndia**
+- **Profile Match:** `59%`
+- **Location:** India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482677354)
 
-### [Java Springboot +AWS Developer](https://in.linkedin.com/jobs/view/java-springboot-%2Baws-developer-at-infosys-4481946160) — **Infosys**
-- **Profile Match:** `57%`
-- **Location:** Hyderabad, Telangana, India
-- **Posted:** 13 hours ago
+### [Sr. Software Engineer](https://in.linkedin.com/jobs/view/sr-software-engineer-at-blackhawk-network-india-4415297307) — **Blackhawk Network India**
+- **Profile Match:** `58%`
+- **Location:** Kozhikode, Kerala, India
+- **Posted:** 18 hours ago
 - **Key Skills Matched:** `aws`, `java`, `microservices`, `spring boot`
 - **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-springboot-%2Baws-developer-at-infosys-4481946160)
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/sr-software-engineer-at-blackhawk-network-india-4415297307)
 
-### [Back End Developer](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482611898) — **Scoutit**
+### [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482682421) — **Scoutit**
+- **Profile Match:** `57%`
+- **Location:** Chennai, Tamil Nadu, India
+- **Posted:** 59 minutes ago
+- **Key Skills Matched:** `java`, `microservices`, `mysql`, `spring boot`
+- **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482682421)
+
+### [Specialist - Software Development & Engineering- JAVA](https://in.linkedin.com/jobs/view/specialist-software-development-engineering-java-at-charles-schwab-india-4483362822) — **Charles Schwab India**
+- **Profile Match:** `57%`
+- **Location:** Hyderabad, Telangana, India
+- **Posted:** 3 hours ago
+- **Key Skills Matched:** `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/specialist-software-development-engineering-java-at-charles-schwab-india-4483362822)
+
+### [Core Java Developer](https://in.linkedin.com/jobs/view/core-java-developer-at-tata-consultancy-services-4482649588) — **Tata Consultancy Services**
+- **Profile Match:** `56%`
+- **Location:** Mumbai Metropolitan Region
+- **Posted:** 15 hours ago
+- **Key Skills Matched:** `java`, `spring boot`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/core-java-developer-at-tata-consultancy-services-4482649588)
+
+### [Back End Developer](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482665961) — **Scoutit**
 - **Profile Match:** `56%`
 - **Location:** Hyderabad, Telangana, India
 - **Posted:** 1 hour ago
 - **Key Skills Matched:** `aws`, `java`, `microservices`, `spring boot`
 - **Good-to-Have Skills:** `jwt`, `mysql`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482611898)
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/back-end-developer-at-scoutit-4482665961)
 
-### [Hiring: Java Developers – IAM/IGA SailPoint Career Transition Program](https://in.linkedin.com/jobs/view/hiring-java-developers-%E2%80%93-iam-iga-sailpoint-career-transition-program-at-bls360-4483306353) — **BLS360**
-- **Profile Match:** `55%`
-- **Location:** India
-- **Posted:** 4 hours ago
-- **Key Skills Matched:** `java`
-- **Good-to-Have Skills:** `jwt`, `mysql`, `spring boot`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/hiring-java-developers-%E2%80%93-iam-iga-sailpoint-career-transition-program-at-bls360-4483306353)
-
-### [Full Stack Web Developer Intern](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482625051) — **Jobs4PanIndia**
+### [Full Stack Web Developer Intern](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482682267) — **Jobs4PanIndia**
 - **Profile Match:** `54%`
 - **Location:** India
-- **Posted:** 1 hour ago
+- **Posted:** 4 hours ago
 - **Key Skills Matched:** `java`, `mysql`, `spring boot`
 - **Good-to-Have Skills:** `aws`, `jwt`, `rest api`, `spring security`
-- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482625051)
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-jobs4panindia-4482682267)
+
+### [Software Engineer](https://in.linkedin.com/jobs/view/software-engineer-at-aervon-4482677319) — **Aervon**
+- **Profile Match:** `51%`
+- **Location:** India
+- **Posted:** 4 hours ago
+- **Key Skills Matched:** `aws`, `java`, `microservices`, `rest api`
+- **Good-to-Have Skills:** `jwt`, `mysql`, `spring boot`, `spring security`
+- **Direct Link:** [Open Application Link](https://in.linkedin.com/jobs/view/software-engineer-at-aervon-4482677319)
 
 ## ⚪ Lesser Matched / Adjacent Roles (< 50%)
 
 > *Compact view for quick reference (Title, Company, Location & Direct Link):*
 
-* **47%** — [AI/ML Computational Science Associate](https://in.linkedin.com/jobs/view/ai-ml-computational-science-associate-at-accenture-in-india-4466367627) at **Accenture in India** (Bengaluru, Karnataka, India)
-* **47%** — [Full Stack Developer Intern](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-thinknovaa-4482604941) at **ThinkNovaa** (India)
-* **46%** — [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482622218) at **Scoutit** (Bengaluru, Karnataka, India)
-* **42%** — [Cloud Engineer](https://in.linkedin.com/jobs/view/cloud-engineer-at-cisco-4483102522) at **Cisco** (Bengaluru, Karnataka, India)
-* **41%** — [Full Stack Web Developer Intern](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482631032) at **Dexterz Technology** (India)
-* **37%** — [Microservices JAVA with AWS-Software Engineer II](https://in.linkedin.com/jobs/view/microservices-java-with-aws-software-engineer-ii-at-deloitte-4464875268) at **Deloitte** (Bengaluru, Karnataka, India)
-* **35%** — [Application Developer Intern](https://in.linkedin.com/jobs/view/application-developer-intern-at-jobs4panindia-4482626089) at **Jobs4PanIndia** (India)
-* **34%** — [Full Stack Engineer](https://in.linkedin.com/jobs/view/full-stack-engineer-at-venture-intelligence-4481675351) at **Venture Intelligence** (Chennai, Tamil Nadu, India)
-* **33%** — [Full Stack Web Developer](https://in.linkedin.com/jobs/view/full-stack-web-developer-at-dexterz-technology-4482607987) at **Dexterz Technology** (India)
-* **30%** — [Full Stack Engineer](https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4481680134) at **Zetheta Algorithms Private Limited** (India)
-* **29%** — [AI-Native Full Stack Java Developer](https://in.linkedin.com/jobs/view/ai-native-full-stack-java-developer-at-zycus-4482862641) at **Zycus** (Bengaluru, Karnataka, India)
-* **27%** — [MERN STACK DEVELOPMENT INTERN](https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-skoollage-4481943012) at **SKOOLLAGE** (India)
-* **25%** — [Software Engineer II](https://in.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4480679568) at **Mastercard** (Pune Division, Maharashtra, India)
-* **25%** — [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-citi-4481697790) at **Citi** (Pune Division, Maharashtra, India)
-* **25%** — [Software Engineer - JAVA](https://in.linkedin.com/jobs/view/software-engineer-java-at-barclays-4481012888) at **Barclays** (Chennai, Tamil Nadu, India)
-* **25%** — [Sr. Software Engineer (Java)](https://in.linkedin.com/jobs/view/sr-software-engineer-java-at-applied-materials-korea-4471777723) at **Applied Materials Korea** (Bengaluru, Karnataka, India)
-* **25%** — [Java Application Developer](https://in.linkedin.com/jobs/view/java-application-developer-at-speedmart-4481698197) at **SpeedMart** (Chennai, Tamil Nadu, India)
-* **25%** — [Software Engineer II - Java Full stack with AI](https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-with-ai-at-mastercard-4480683375) at **Mastercard** (Pune Division, Maharashtra, India)
-* **25%** — [Software Engineer](https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4482634010) at **Scoutit** (Chennai, Tamil Nadu, India)
-* **25%** — [Associate Software Engineer](https://in.linkedin.com/jobs/view/associate-software-engineer-at-talentrabbit-4481025488) at **TalentRabbit** (Bengaluru, Karnataka, India)
-* **25%** — [Java FullStack](https://in.linkedin.com/jobs/view/java-fullstack-at-citi-4481916173) at **Citi** (Pune Division, Maharashtra, India)
-* **25%** — [Software Engineer II](https://in.linkedin.com/jobs/view/software-engineer-ii-at-jpmorganchase-4483154334) at **JPMorganChase** (Hyderabad, Telangana, India)
-* **25%** — [Associate Engineer(C#, .net, ASP.NET MVC, SQL, AWS or Azure)](https://in.linkedin.com/jobs/view/associate-engineer-c%23-net-asp-net-mvc-sql-aws-or-azure-at-matrixcare-4483160320) at **MatrixCare** (Bengaluru, Karnataka, India)
-* **25%** — [Software Engineer](https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4483108414) at **Cisco** (Bengaluru, Karnataka, India)
-* **25%** — [MERN Stack Developer](https://in.linkedin.com/jobs/view/mern-stack-developer-at-innovkaro-solutions-4481670451) at **InnovKaro Solutions** (Bengaluru, Karnataka, India)
-* **25%** — [Software Engineer I A - GBS IND](https://in.linkedin.com/jobs/view/software-engineer-i-a-gbs-ind-at-bank-of-america-4482896864) at **Bank of America** (Chennai, Tamil Nadu, India)
-* **25%** — [Automotive Display Software Engineer](https://in.linkedin.com/jobs/view/automotive-display-software-engineer-at-qualcomm-4481696343) at **Qualcomm** (Bengaluru, Karnataka, India)
-* **25%** — [Backend Developer Intern (Remote)](https://in.linkedin.com/jobs/view/backend-developer-intern-remote-at-medinex-workforce-4481670719) at **MediNex Workforce** (India)
-* **25%** — [Back End Developer Intern](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482610985) at **Jobs4PanIndia** (India)
-* **25%** — [Software Engineer Intern](https://in.linkedin.com/jobs/view/software-engineer-intern-at-bluebex-4482394271) at **Bluebex** (Bengaluru, Karnataka, India)
-* **25%** — [Software Engineer Intern](https://in.linkedin.com/jobs/view/software-engineer-intern-at-credhive-4483104685) at **CredHive** (New Delhi, Delhi, India)
-* **25%** — [Software Development Intern](https://in.linkedin.com/jobs/view/software-development-intern-at-shure-india-4481911474) at **Shure India** (Hyderabad, Telangana, India)
-* **25%** — [Full Stack Development Internship in New Chandigarh, Panchkula, Chandigarh, Zirakpur, Kharar, Mohali](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-new-chandigarh-panchkula-chandigarh-zirakpur-kharar-mohali-at-sahayak-associates-4483174359) at **Sahayak Associates** (Chandigarh, Chandigarh, India)
-* **25%** — [Full Stack Development Internship in New Chandigarh, Panchkula, Chandigarh, Zirakpur, Kharar, Mohali](https://in.linkedin.com/jobs/view/full-stack-development-internship-in-new-chandigarh-panchkula-chandigarh-zirakpur-kharar-mohali-at-sahayak-associates-4483177325) at **Sahayak Associates** (Chandigarh, Chandigarh, India)
-* **25%** — [Application Developer Intern](https://in.linkedin.com/jobs/view/application-developer-intern-at-thinknovaa-4482617412) at **ThinkNovaa** (India)
-* **25%** — [Back End Developer Intern](https://in.linkedin.com/jobs/view/back-end-developer-intern-at-jobs4panindia-4482629062) at **Jobs4PanIndia** (India)
-* **25%** — [Associate Software Engineer](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482625043) at **TalentRabbit** (Chennai, Tamil Nadu, India)
-* **25%** — [Full Stack Web Developer Intern](https://in.linkedin.com/jobs/view/ai-implementation-engineer-intern-at-hectae-analytics-and-software-solutions-4481692012) at **Dexterz Technology** (India)
-* **25%** — [AI Implementation Engineer Intern](https://in.linkedin.com/jobs/view/software-testing-intern-at-shure-india-4481910507) at **Hectae Analytics and Software Solutions** (Chennai, Tamil Nadu, India)
+* **48%** — [Associate, Technology Operations](https://in.linkedin.com/jobs/view/associate-technology-operations-at-massmutual-india-4482665066) at **MassMutual India** (Hyderabad, Telangana, India)
+* **48%** — [Backend Developer Intern](https://in.linkedin.com/jobs/view/backend-developer-intern-at-kaushalsaathi-4482681497) at **kaushalsaathi** (India)
+* **47%** — [Full Stack Developer Intern](https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-thinknovaa-4482677315) at **ThinkNovaa** (India)
+* **46%** — [Java Developer](https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4482689058) at **Scoutit** (Bengaluru, Karnataka, India)
+* **41%** — [Full Stack Web Developer Intern](https://in.linkedin.com/jobs/view/full-stack-web-developer-intern-at-dexterz-technology-4482669629) at **Dexterz Technology** (India)
+* **37%** — [Software Engineer](https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4482665959) at **Scoutit** (Chennai, Tamil Nadu, India)
+* **37%** — [Java Developer Intern](https://in.linkedin.com/jobs/view/java-developer-intern-at-skillzen-loop-4481045699) at **Skillzen Loop** (India)
+* **35%** — [Application Developer Intern](https://in.linkedin.com/jobs/view/application-developer-intern-at-jobs4panindia-4482686227) at **Jobs4PanIndia** (India)
+* **34%** — [Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only)](https://in.linkedin.com/jobs/view/generative-ai-engineer-freshers-2026-27-computer-science-or-ai-only-at-digitals-ai-4483332828) at **Digitals AI** (Hyderabad, Telangana, India)
+* **33%** — [Full Stack Web Developer](https://in.linkedin.com/jobs/view/full-stack-web-developer-at-dexterz-technology-4482678405) at **Dexterz Technology** (India)
+* **31%** — [Full Stack Engineer Intern](https://in.linkedin.com/jobs/view/full-stack-engineer-intern-at-flexzistay-4420712870) at **Flexzistay** (India)
+* **30%** — [Full Stack Engineer](https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4482648383) at **Zetheta Algorithms Private Limited** (India)
+* **27%** — [MERN STACK DEVELOPMENT INTERN](https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-skoollage-4482683295) at **SKOOLLAGE** (India)
+* **27%** — [TECH INTERN – FULL STACK WEB DEVELOPER](https://in.linkedin.com/jobs/view/tech-intern-%E2%80%93-full-stack-web-developer-at-concept-promotions-and-events-4482643278) at **Concept Promotions and Events** (Delhi, India)
+* **25%** — [Software Engineer I](https://in.linkedin.com/jobs/view/software-engineer-i-at-workowon-4483341284) at **Workowon** (Bengaluru, Karnataka, India)
+* **25%** — [Application Developer](https://in.linkedin.com/jobs/view/application-developer-at-appinventiv-4481033766) at **Appinventiv** (India)
+* **25%** — [Software Specialist](https://in.linkedin.com/jobs/view/software-specialist-at-appinventiv-4481030836) at **Appinventiv** (India)
+* **25%** — [Hiring Interns - Web and Mobile Apps - Product Company](https://in.linkedin.com/jobs/view/hiring-interns-web-and-mobile-apps-product-company-at-k-hub-india-4481074751) at **K-HUB INDIA** (Hyderabad, Telangana, India)
+* **25%** — [Software Developer](https://in.linkedin.com/jobs/view/software-developer-at-skillinabox-4482648022) at **Skillinabox** (Noida, Uttar Pradesh, India)
+* **25%** — [Jr. AI Engineer](https://in.linkedin.com/jobs/view/jr-ai-engineer-at-aiqon-4481042276) at **aiqon** (Hyderabad, Telangana, India)
+* **25%** — [Associate AI Engineer (GenAI / Agentic AI)](https://in.linkedin.com/jobs/view/associate-ai-engineer-genai-agentic-ai-at-cremisoft-ai-4481050334) at **Cremisoft AI** (India)
+* **25%** — [DEVELOPER (.NET)](https://in.linkedin.com/jobs/view/developer-net-at-privet-ventures-pvt-ltd-4482672234) at **Privet Ventures Pvt Ltd** (Gurugram, Haryana, India)
+* **25%** — [Eng, Artificial Intelligence](https://in.linkedin.com/jobs/view/eng-artificial-intelligence-at-kla-4427334560) at **KLA** (Chennai, Tamil Nadu, India)
+* **25%** — [Software & AI Systems Intern](https://in.linkedin.com/jobs/view/software-ai-systems-intern-at-custosa-4482644311) at **Custosa** (India)
+* **25%** — [Application Developer Intern](https://in.linkedin.com/jobs/view/application-developer-intern-at-thinknovaa-4482677314) at **ThinkNovaa** (India)
+* **25%** — [Engineer Intern](https://in.linkedin.com/jobs/view/engineer-intern-at-appinventiv-4481048070) at **Appinventiv** (India)
+* **25%** — [Intern Bachelors Software Eng](https://in.linkedin.com/jobs/view/intern-bachelors-software-eng-at-honeywell-technologies-4483355003) at **Honeywell Technologies** (Bengaluru, Karnataka, India)
+* **25%** — [Software Developer Intern](https://in.linkedin.com/jobs/view/software-developer-intern-at-skillzen-loop-4481055328) at **Skillzen Loop** (India)
+* **25%** — [Software Trainee](https://in.linkedin.com/jobs/view/software-trainee-at-appinventiv-4481027997) at **Appinventiv** (India)
 
 
 
